@@ -1,0 +1,16 @@
+{
+  "collection": {
+    "projects": [
+      {
+        "name": "newco-admin",
+        "type": "application",
+        "root": "src",
+        "sourceRoot": "src",
+        "compilerOptions": {
+          "assets": ["**/*.hbs"],
+          "watchAssets": true
+        }
+      }
+    ]
+  }
+}

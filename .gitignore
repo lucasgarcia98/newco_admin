@@ -1,0 +1,14 @@
+# Node modules directories
+backend/node_modules/
+frontend/node_modules/
+
+# Other common Node.js files to ignore
+backend/npm-debug.log
+frontend/npm-debug.log
+backend/.env
+frontend/.env
+backend/.env.local
+frontend/.env.local
+
+# Arquivo de variáveis de ambiente na raiz do projeto
+.env
